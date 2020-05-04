@@ -1,3 +1,4 @@
+![](/imagenes/image.png)
 # pomo
 
 ## Project setup
